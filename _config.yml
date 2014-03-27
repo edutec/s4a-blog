@@ -1,4 +1,5 @@
 name: S4A Blog
 markdown: redcarpet
 pygments: true
-baseurl: "http://edutec.github.io/s4a-blog/"
+safe: true
+baseurl: "/s4a-blog"
