@@ -6,8 +6,8 @@ title: S4A Blog
 <div id="home">
   <h1>Latest Posts</h1>
   <ul >
-		  {% for post in site.posts limit 4 %}
-		  <li><strong>{{ post.date | date_to_string }}</strong> &raquo; <h2><a href="{{ post.url }}">{{ post.title }}</a></h2></li>
+		  {% for post in site.posts reversed limit 4 %}
+		  <li><strong>{{ post.date | date_to_string }}</strong> &raquo; <h2><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></h2></li>
 		  {{ post.content | truncatewords:50}}<br>
 		  <a href="{{ post.url }}">Read more...</a><br><br>
 		  {% endfor %}
@@ -15,8 +15,8 @@ title: S4A Blog
 
   <h4>All Posts</h4>
   <ul class="posts">
-		  {% for post in site.posts %}
-		  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		  {% for post in site.posts reversed %}
+		  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>
 		  {% endfor %}
   </ul>
 </div>
