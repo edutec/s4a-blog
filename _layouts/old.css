@@ -14,22 +14,15 @@ html, body { height: 100%; }
 
 body {
   background-color: #E0E0E0; 
-  font: 16px/26px Helvetica, Helvetica Neue, Arial;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 {
-  font-size: 2em;
-  margin-bottom: 1em;
-}
-
-h2 {
-  font-size: 1.5em;
-  margin: .83em 0;
-}
-
+h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -62,36 +55,17 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
-.clearfix {
+.site {
+  font-size: 115%;
+  text-align: justify;
   width: 42em;
-  margin: 0 auto;
-}
-
-.header {
-  padding: 15px 0;
-  background-color: #254E69;
-  width: 100%;
-  border-bottom: 8px solid #4088B6;
+  margin: 3em auto 2em;
+  line-height: 1.5em;
 }
 
 .header a {
   font-weight: bold;
   text-decoration: none;
-}
-
-.citilab {
-  float: right;
-}
-
-.site {
-  text-align: justify;
-  width: 42em;
-  margin: 2em auto 2em;
-  line-height: 1.5em;
-}
-
-.site ul {
-  list-style-type: none;
 }
 
 .title {
@@ -129,17 +103,8 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact {
-  margin-top: 1em;
   float: left;
-}
-
-.footer .contact p {
-  line-height: 0.5em;
-}
-
-.footer .citilab {
-  margin-top: 1em;
-  float: right;
+  margin-right: 3em;
 }
 
 .footer .contact a {
