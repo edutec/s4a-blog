@@ -2,3 +2,4 @@ name: Blog
 markdown: redcarpet
 pygments: true
 safe: true
+baseurl: http://blog.s4a.cat
