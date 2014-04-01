@@ -2,4 +2,3 @@ name: Blog
 markdown: redcarpet
 pygments: true
 safe: true
-baseurl: "/s4a-blog"
