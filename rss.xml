@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>S4A Blog</title>
+    <link>http://blog.s4a.cat</link>
+    <description>The S4A Blog</description>
+    <pubDate>Thu, 03 Apr 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Look ma! No cables!</title>
+      <link>http://blog.s4a.cat/2014/04/03/look-ma-no-cables.html</link>
+      <description>&lt;p&gt;Although the main purpose of S4A is to let you &lt;em&gt;interact&lt;/em&gt; with Arduino boards (meaning, things you do in the computer have an immediate, real-time effect on the board), the recent S4A version for RaspberryPi allows for a somewhat autonomus behaviour.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/04/03/look-ma-no-cables.html</guid>
+      <dc:date>2014-04-03T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>S4A has a blog</title>
+      <link>http://blog.s4a.cat/2014/04/01/new-blog.html</link>
+      <description>&lt;p&gt;Given the recent developments by the S4A team (&lt;a href=&quot;http://s4a.cat/#kit&quot;&gt;kits on the way&lt;/a&gt;, &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt;, and many other things we&amp;#39;re slowly cooking), we&amp;#39;ve thought it a good idea to start a blog where we can share our findings and advancements with everybody.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/04/01/new-blog.html</guid>
+      <dc:date>2014-04-01T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>A line tracer in S4A</title>
+      <link>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</link>
+      <description>&lt;p&gt;Yesterday we built this cute (and super slow!) line tracer robot in S4A, as an example of what you&amp;#39;ll be able to do with the &lt;a href=&quot;http://s4a.cat/#kit&quot;&gt;S4A Arduino Kits&lt;/a&gt;:&lt;/p&gt;
+</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
+      <dc:date>2014-04-01T00:00:00+02:00</dc:date>
+    </item>
+    <dc:date>2014-04-03T00:00:00+02:00</dc:date>
+  </channel>
+</rss>
