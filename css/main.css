@@ -10,7 +10,10 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+  color: #4A4A4A;
+  height: 100%;
+}
 
 body {
   background-color: #E0E0E0; 
@@ -32,9 +35,14 @@ h2 {
 
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a { 
+  color: #4A4A4A;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:hover   { color: #4A4A4A; }
+a:visited { color: #4A4A4A; }
 
 /*****************************************************************************/
 /*
