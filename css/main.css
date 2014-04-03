@@ -87,6 +87,12 @@ a:visited { color: #4A4A4A; }
   text-decoration: none;
 }
 
+.rss {
+  position: fixed;
+  right: 5px;
+  bottom: 0px;
+}
+
 .citilab {
   float: right;
 }
@@ -152,16 +158,6 @@ a:visited { color: #4A4A4A; }
 
 .footer .contact a {
   color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
 }
 
 /*****************************************************************************/
