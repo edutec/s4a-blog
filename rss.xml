@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Thu, 03 Apr 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 08 Apr 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Tracing lines with Snap4Arduino</title>
+      <link>http://blog.s4a.cat/2014/04/08/Snap4Arduino-tracer-robot.html</link>
+      <description>&lt;p&gt;The next obvious example was to build exactly the same robot but on &lt;a href=&quot;http://snap.berkeley.edu&quot;&gt;Snap!&lt;/a&gt;, and so we did:&lt;/p&gt;
+</description>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/04/08/Snap4Arduino-tracer-robot.html</guid>
+      <dc:date>2014-04-08T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Look ma! No cables!</title>
       <link>http://blog.s4a.cat/2014/04/03/look-ma-no-cables.html</link>
@@ -45,6 +54,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-04-03T00:00:00+02:00</dc:date>
+    <dc:date>2014-04-08T00:00:00+02:00</dc:date>
   </channel>
 </rss>
