@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Tue, 08 Apr 2014 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 11 Apr 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>It's getting warm in Barcelona...</title>
+      <link>http://blog.s4a.cat/2014/04/11/getting-warm-in-Barcelona.html</link>
+      <description>&lt;p&gt;So let&amp;#39;s make an S4A program to fix that!&lt;/p&gt;
+</description>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/04/11/getting-warm-in-Barcelona.html</guid>
+      <dc:date>2014-04-11T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Tracing lines with Snap4Arduino</title>
       <link>http://blog.s4a.cat/2014/04/08/Snap4Arduino-tracer-robot.html</link>
@@ -54,6 +63,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-04-08T00:00:00+02:00</dc:date>
+    <dc:date>2014-04-11T00:00:00+02:00</dc:date>
   </channel>
 </rss>
