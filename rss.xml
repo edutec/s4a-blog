@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Fri, 11 Apr 2014 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 30 May 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Snap4Arduino 0.48 pre-alpha is out</title>
+      <link>http://blog.s4a.cat/2014/05/30/snap4arduino-048.html</link>
+      <description>&lt;p&gt;This week we&amp;#39;ve had time to focus on &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt;, which will be presented at &lt;a href=&quot;http://scratch.mit.edu/conference&quot;&gt;Scratch@MIT&lt;/a&gt; this summer, and thus has to look presentable!&lt;/p&gt;
+</description>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/05/30/snap4arduino-048.html</guid>
+      <dc:date>2014-05-30T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>It's getting warm in Barcelona...</title>
       <link>http://blog.s4a.cat/2014/04/11/getting-warm-in-Barcelona.html</link>
@@ -63,6 +72,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-04-11T00:00:00+02:00</dc:date>
+    <dc:date>2014-05-30T00:00:00+02:00</dc:date>
   </channel>
 </rss>
