@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Fri, 30 May 2014 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Morse, Lasers and Snap4Arduino</title>
+      <link>http://blog.s4a.cat/2014/06/19/morse-lasers-and-snap4arduino.html</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; is evolving fast, and next week we&amp;#39;ll be publishing a new version which we think is going to surprise everybody!&lt;/p&gt;
+</description>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/06/19/morse-lasers-and-snap4arduino.html</guid>
+      <dc:date>2014-06-19T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Snap4Arduino 0.48 pre-alpha is out</title>
       <link>http://blog.s4a.cat/2014/05/30/snap4arduino-048.html</link>
@@ -72,6 +81,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-05-30T00:00:00+02:00</dc:date>
+    <dc:date>2014-06-19T00:00:00+02:00</dc:date>
   </channel>
 </rss>
