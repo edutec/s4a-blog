@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 26 Jun 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>A Laser lighthouse guiding a ship</title>
+      <link>http://blog.s4a.cat/2014/06/26/laser-lighthouse-guiding-ship.html</link>
+      <description>&lt;p&gt;We&amp;#39;re still making preparations to release the new &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; version, which has been delayed mainly because we&amp;#39;ve been busy finishing up the preparations for this year&amp;#39;s &lt;a href=&quot;http://tecnoestiu.citilab.eu/&quot;&gt;TecnoEstiu&lt;/a&gt;. In the last post we showed a proof of concept in which two Arduinos communicated via Morse by means of a laser and a photoresistor.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/06/26/laser-lighthouse-guiding-ship.html</guid>
+      <dc:date>2014-06-26T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Morse, Lasers and Snap4Arduino</title>
       <link>http://blog.s4a.cat/2014/06/19/morse-lasers-and-snap4arduino.html</link>
@@ -81,6 +90,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-06-19T00:00:00+02:00</dc:date>
+    <dc:date>2014-06-26T00:00:00+02:00</dc:date>
   </channel>
 </rss>
