@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Wed, 30 Jul 2014 00:00:00 +0200</pubDate>
+    <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Bluetooth Car in Snap4Arduino</title>
+      <link>http://blog.s4a.cat/2014/10/01/bluetooth-car-in-Snap4Arduino.html</link>
+      <description>&lt;p&gt;This weekend we&amp;#39;ve been invited to the &lt;a href=&quot;http://www.makerfairerome.eu/&quot;&gt;Maiker Faire Rome&lt;/a&gt; to give a workshop on &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt;, in which we wanted to get the kids to play with robotic cars (both ours and their &lt;a href=&quot;http://www.raspibo.org/wiki/index.php?title=Milkbot&quot;&gt;MilkBots&lt;/a&gt;). Cables are really a nuissance when it comes to things with wheels, so we&amp;#39;ve been exploring how to connect the robots to some bluetooth modules we had laying around from an old project.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2014/10/01/bluetooth-car-in-Snap4Arduino.html</guid>
+      <dc:date>2014-10-01T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Getting ready for Scratch@MIT</title>
       <link>http://blog.s4a.cat/2014/07/30/getting-ready-for-scratch-at-mit.html</link>
@@ -108,6 +117,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-07-30T00:00:00+02:00</dc:date>
+    <dc:date>2014-10-01T00:00:00+02:00</dc:date>
   </channel>
 </rss>
