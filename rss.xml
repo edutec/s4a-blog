@@ -8,7 +8,29 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 18 Nov 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Too much stuff for a single post</title>
+      <link>http://blog.s4a.cat/2014/11/18/too-much-stuff-for-a-post.html</link>
+      <description>&lt;p&gt;We haven&amp;#39;t written in a long while, but that&amp;#39;s because we&amp;#39;re actually too busy working on several different projects and have literally no time left for writing.&lt;/p&gt;
+
+&lt;p&gt;To recap, during these months we&amp;#39;ve:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Released &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; 1.0 beta&lt;/strong&gt;: With lots of bugfixes, new features and translations. As always, &lt;a href=&quot;https://github.com/elaval&quot;&gt;Ernesto Laval&lt;/a&gt; has been a priceless collaborator!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About to release &lt;a href=&quot;http://s4a.cat&quot;&gt;S4A&lt;/a&gt; 1.6&lt;/strong&gt;: The new version will feature a couple of new blocks (http and string manipulation), some bugfixes, a license correction and several new translations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beetleblocks&lt;/strong&gt;: &lt;a href=&quot;https://github.com/bromagosa&quot;&gt;Bernat Romagosa&lt;/a&gt; is working on this awesome 3D generative modelling project with &lt;a href=&quot;https://github.com/jmoenig&quot;&gt;Jens Mönig&lt;/a&gt;, &lt;a href=&quot;http://web.media.mit.edu/%7Eericr/&quot;&gt;Eric Rosenbaum&lt;/a&gt; and &lt;a href=&quot;https://architecture.mit.edu/student/duks-koschitz&quot;&gt;Duks Koschitz&lt;/a&gt;. The first public version will be out by the end of this year, but in the meantime let us share a spoiler with you: &lt;a href=&quot;https://pbs.twimg.com/media/B1lJzXACYAEHxo7.png:large&quot;&gt;Nautilius by Jens Mönig&lt;/a&gt;, and its &lt;a href=&quot;https://pbs.twimg.com/media/B1wBk-NIMAAJm-O.jpg&quot;&gt;material print&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Snappy&lt;/strong&gt;: Basically, API and big data programming for Snap&lt;i&gt;!&lt;/i&gt;. JSON inspectors and libraries to deal with a couple of default APIs, plus new primitive blocks that allow you to build your own libraries. The first public version will also be out by the end of this year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Besides all this, we&amp;#39;ve been building an activity database that aims to collect all of our teaching experiences in the last 7 years at Citilab. This project involves so much time and work that we&amp;#39;re not sure when it will be finished, let alone translated into three languages, but we&amp;#39;re confident we&amp;#39;ll manage somehow, someday.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned! &lt;/p&gt;
+</description>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>http://blog.s4a.cat/2014/11/18/too-much-stuff-for-a-post.html</guid>
+      <dc:date>2014-11-18T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Bluetooth Car in Snap4Arduino</title>
       <link>http://blog.s4a.cat/2014/10/01/bluetooth-car-in-Snap4Arduino.html</link>
@@ -117,6 +139,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-10-01T00:00:00+02:00</dc:date>
+    <dc:date>2014-11-18T00:00:00+01:00</dc:date>
   </channel>
 </rss>
