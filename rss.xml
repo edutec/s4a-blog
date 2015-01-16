@@ -8,7 +8,34 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Sun, 14 Dec 2014 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 16 Jan 2015 00:00:00 +0100</pubDate>
+    <item>
+      <title>An Arduino car controlled via bluetooth with AppInventor</title>
+      <link>http://blog.s4a.cat/2015/01/16/Arduino-car-controlled-via-bluetooth-with-AppInventor.html</link>
+      <description>&lt;p&gt;This simple robot receives a command via Bluetooth from an Android program written in AppInventor.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>http://blog.s4a.cat/2015/01/16/Arduino-car-controlled-via-bluetooth-with-AppInventor.html</guid>
+      <dc:date>2015-01-16T00:00:00+01:00</dc:date>
+    </item>
+    <item>
+      <title>S4A Download Mirrors</title>
+      <link>http://blog.s4a.cat/2015/01/05/S4A-Mirror.html</link>
+      <description>&lt;p&gt;Since we have sometimes experienced problems with our VPS provider, we&amp;#39;ve decided to set up some mirrors for all S4A files. We&amp;#39;ve also included previous versions, as some users had requested access to them.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>http://blog.s4a.cat/2015/01/05/S4A-Mirror.html</guid>
+      <dc:date>2015-01-05T00:00:00+01:00</dc:date>
+    </item>
+    <item>
+      <title>Snap4Arduino for 64b GNU/Linux</title>
+      <link>http://blog.s4a.cat/2015/01/05/-Snap4Arduino-for-64bits-GNU-Linux.html</link>
+      <description>&lt;p&gt;We love to receive contributions, especially if they allow new users to join our community. This time, thanks to &lt;a href=&quot;https://github.com/fhunleth&quot;&gt;Frank Hunleth&lt;/a&gt;, we have a 64 bits GNU/Linux version available!&lt;/p&gt;
+</description>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>http://blog.s4a.cat/2015/01/05/-Snap4Arduino-for-64bits-GNU-Linux.html</guid>
+      <dc:date>2015-01-05T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>New S4A release</title>
       <link>http://blog.s4a.cat/2014/12/14/new-S4A-release-16.html</link>
@@ -148,6 +175,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-12-14T00:00:00+01:00</dc:date>
+    <dc:date>2015-01-16T00:00:00+01:00</dc:date>
   </channel>
 </rss>
