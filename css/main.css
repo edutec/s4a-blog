@@ -98,6 +98,11 @@ a:visited { color: #4A4A4A; }
   float: right;
 }
 
+aside {
+  float: right;
+  vertical-align: top;
+}
+
 .site {
   text-align: justify;
   width: 42em;
