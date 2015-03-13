@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Fri, 16 Jan 2015 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 13 Mar 2015 00:00:00 +0100</pubDate>
+    <item>
+      <title>Extending Firmata for Snap4Arduino</title>
+      <link>http://blog.s4a.cat/2015/03/13/Extending-Firmata-for-Snap4Arduino.html</link>
+      <description>&lt;p&gt;Although Firmata is a very complete firmware for the Arduino board, from time to time we find ourselves needing extended funcionalities and wanting to use devices not supported by default by the protocol, such as LCD screens.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0100</pubDate>
+      <guid>http://blog.s4a.cat/2015/03/13/Extending-Firmata-for-Snap4Arduino.html</guid>
+      <dc:date>2015-03-13T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>An Arduino car controlled via bluetooth with AppInventor</title>
       <link>http://blog.s4a.cat/2015/01/16/Arduino-car-controlled-via-bluetooth-with-AppInventor.html</link>
@@ -175,6 +184,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-01-16T00:00:00+01:00</dc:date>
+    <dc:date>2015-03-13T00:00:00+01:00</dc:date>
   </channel>
 </rss>
