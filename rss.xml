@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Tue, 24 Mar 2015 00:00:00 +0100</pubDate>
+    <pubDate>Tue, 31 Mar 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Ultrasound Library for Snap4Arduino</title>
+      <link>http://blog.s4a.cat/2015/03/31/Ultrasound-Library-for-Snap4Arduino.html</link>
+      <description>&lt;p&gt;The next library is out, and this time allows you to control an ultrasound sensor like this one:&lt;/p&gt;
+</description>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/03/31/Ultrasound-Library-for-Snap4Arduino.html</guid>
+      <dc:date>2015-03-31T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>LCD Library for Snap4Arduino</title>
       <link>http://blog.s4a.cat/2015/03/24/LCD-Library-for-Snap4Arduino.html</link>
@@ -193,6 +202,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-03-24T00:00:00+01:00</dc:date>
+    <dc:date>2015-03-31T00:00:00+02:00</dc:date>
   </channel>
 </rss>
