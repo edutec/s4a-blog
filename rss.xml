@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Tue, 31 Mar 2015 00:00:00 +0200</pubDate>
+    <pubDate>Wed, 22 Apr 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Seniors can code too!</title>
+      <link>http://blog.s4a.cat/2015/04/22/Seniors-can-code-too.html</link>
+      <description>&lt;p&gt;This year, at the &lt;a href=&quot;http://citilab.eu&quot;&gt;Citilab&lt;/a&gt;, we have committed to get all of our interest areas and work groups closer, and just this week we have started bringing together two projects: &lt;a href=&quot;http://edutec.citilab.eu&quot;&gt;Edutec&lt;/a&gt; and &lt;a href=&quot;http://seniorlab.citilab.eu/&quot;&gt;Seniorlab&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 22 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/04/22/Seniors-can-code-too.html</guid>
+      <dc:date>2015-04-22T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Ultrasound Library for Snap4Arduino</title>
       <link>http://blog.s4a.cat/2015/03/31/Ultrasound-Library-for-Snap4Arduino.html</link>
@@ -202,6 +211,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-03-31T00:00:00+02:00</dc:date>
+    <dc:date>2015-04-22T00:00:00+02:00</dc:date>
   </channel>
 </rss>
