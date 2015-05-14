@@ -8,7 +8,25 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Wed, 22 Apr 2015 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 14 May 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Yet another Snap4Arduino release</title>
+      <link>http://blog.s4a.cat/2015/05/14/Yet-another-Snap4Arduino-release.html</link>
+      <description>&lt;p&gt;This release, &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; 1.0.4 beta, addresses an &lt;a href=&quot;https://github.com/edutec/Snap4Arduino/issues/56&quot;&gt;issue&lt;/a&gt; reported by &lt;a href=&quot;http://acrosseducation.tumblr.com/&quot;&gt;Valentina Chinnici&lt;/a&gt;, which prevented users from accessing the Sounds, Costumes and Background libraries.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/05/14/Yet-another-Snap4Arduino-release.html</guid>
+      <dc:date>2015-05-14T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Snap4Arduino 1.0.3 beta</title>
+      <link>http://blog.s4a.cat/2015/05/13/Snap4Arduino-1.0.3-beta.html</link>
+      <description>&lt;p&gt;We have just released a new &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; version that features a single improvement: now pin configurations happen automagically. You don&amp;#39;t need to set up pins before using them anymore, &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; will check whether the pin you asked for is set to the correct mode, and fix the problem otherwise.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/05/13/Snap4Arduino-1.0.3-beta.html</guid>
+      <dc:date>2015-05-13T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Seniors can code too!</title>
       <link>http://blog.s4a.cat/2015/04/22/Seniors-can-code-too.html</link>
@@ -211,6 +229,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-04-22T00:00:00+02:00</dc:date>
+    <dc:date>2015-05-14T00:00:00+02:00</dc:date>
   </channel>
 </rss>
