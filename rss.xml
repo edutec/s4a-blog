@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Thu, 14 May 2015 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 19 May 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>First List Ninja Contest</title>
+      <link>http://blog.s4a.cat/2015/05/19/First-List-Ninja-Contest.html</link>
+      <description>&lt;p&gt;We are launching the first S4A/Snap4Arduino List Ninja Contest as an effort to help newcomers learn their way towards prototyping mastery while rewarding those who offer their knowledge and expertise to them.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/05/19/First-List-Ninja-Contest.html</guid>
+      <dc:date>2015-05-19T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Yet another Snap4Arduino release</title>
       <link>http://blog.s4a.cat/2015/05/14/Yet-another-Snap4Arduino-release.html</link>
@@ -229,6 +238,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-05-14T00:00:00+02:00</dc:date>
+    <dc:date>2015-05-19T00:00:00+02:00</dc:date>
   </channel>
 </rss>
