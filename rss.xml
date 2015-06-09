@@ -8,7 +8,16 @@
     <title>S4A Blog</title>
     <link>http://blog.s4a.cat</link>
     <description>The S4A Blog</description>
-    <pubDate>Thu, 14 May 2015 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 09 Jun 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Snap4Arduino Arduino Sketch Generation</title>
+      <link>http://blog.s4a.cat/2015/06/09/Snap4Arduino-Arduino-sketch-generation.html</link>
+      <description>&lt;p&gt;We&amp;#39;ve always been reluctant to add such a feature because we believe the main reason tools like S4A and Snap4Arduino are successful is because they inherit their parent project&amp;#39;s dynamic properties. That is, you still have a live environment while your board is plugged in, you enjoy immediate response, you don&amp;#39;t lose parallelism and you don&amp;#39;t need to compile or translate code into text and push it to the board to see what it does. Code is code regardless of whether you draw it, punch it into cards, stack blocks together or write it.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/06/09/Snap4Arduino-Arduino-sketch-generation.html</guid>
+      <dc:date>2015-06-09T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Yet another Snap4Arduino release</title>
       <link>http://blog.s4a.cat/2015/05/14/Yet-another-Snap4Arduino-release.html</link>
@@ -229,6 +238,6 @@
       <guid>http://blog.s4a.cat/2014/04/01/S4A-tracer-robot.html</guid>
       <dc:date>2014-04-01T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2015-05-14T00:00:00+02:00</dc:date>
+    <dc:date>2015-06-09T00:00:00+02:00</dc:date>
   </channel>
 </rss>
