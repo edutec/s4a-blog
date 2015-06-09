@@ -19,6 +19,15 @@
       <dc:date>2015-06-09T00:00:00+02:00</dc:date>
     </item>
     <item>
+      <title>First List Ninja Contest</title>
+      <link>http://blog.s4a.cat/2015/05/19/First-List-Ninja-Contest.html</link>
+      <description>&lt;p&gt;We are launching the first S4A/Snap4Arduino List Ninja Contest as an effort to help newcomers learn their way towards prototyping mastery while rewarding those who offer their knowledge and expertise to them.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0200</pubDate>
+      <guid>http://blog.s4a.cat/2015/05/19/First-List-Ninja-Contest.html</guid>
+      <dc:date>2015-05-19T00:00:00+02:00</dc:date>
+    </item>
+    <item>
       <title>Yet another Snap4Arduino release</title>
       <link>http://blog.s4a.cat/2015/05/14/Yet-another-Snap4Arduino-release.html</link>
       <description>&lt;p&gt;This release, &lt;a href=&quot;http://s4a.cat/snap&quot;&gt;Snap4Arduino&lt;/a&gt; 1.0.4 beta, addresses an &lt;a href=&quot;https://github.com/edutec/Snap4Arduino/issues/56&quot;&gt;issue&lt;/a&gt; reported by &lt;a href=&quot;http://acrosseducation.tumblr.com/&quot;&gt;Valentina Chinnici&lt;/a&gt;, which prevented users from accessing the Sounds, Costumes and Background libraries.&lt;/p&gt;
