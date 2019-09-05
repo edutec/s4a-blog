@@ -7,4 +7,4 @@ Yesterday we built this cute (and super slow!) line tracer robot in S4A, as an e
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/yuD017yYL4A" frameborder="0" allowfullscreen></iframe>
 
-The code can be downloaded from [here](http://vps34736.ovh.net/tracer.sb), and there's a lot of room for improvement, so you can enjoy extending it and trying to make it run faster!
+The code can be downloaded from [here](http://edutec.citilab.eu/files/tracer.sb), and there's a lot of room for improvement, so you can enjoy extending it and trying to make it run faster!
