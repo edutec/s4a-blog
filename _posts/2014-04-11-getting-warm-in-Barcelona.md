@@ -15,4 +15,4 @@ Watch the video to see it in action:
 
 You can get the code from here:
 
-[S4A fan controller](http://vps34736.ovh.net/fan.sb)
+[S4A fan controller](http://edutec.citilab.eu/files/fan.sb)
