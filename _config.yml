@@ -1,5 +1,4 @@
 name: S4A Blog
 description: The S4A Blog
-markdown: redcarpet
 baseurl: http://blog.s4a.cat
 url: http://blog.s4a.cat
