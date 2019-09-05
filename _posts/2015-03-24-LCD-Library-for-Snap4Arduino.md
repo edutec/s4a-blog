@@ -13,6 +13,6 @@ We are using a 16x2 LCD display, but if your has a different number of rows or c
 
 Please follow the [instructions in the Arduino official page](http://arduino.cc/en/pmwiki.php?n=Tutorial/LiquidCrystal) (look for the _Circuit_ section) in order to properly wire your LCD screen to the board.
 
-In this package you will find the modified Firmata you need to push to your board (LCDFirmata.ino) and the blocks library for Snap4Arduino (LCD-library.xml). Just _File→Import_ it and you're done: [LCD-Snap4Arduino.zip](http://vps34736.ovh.net/LCD-Snap4Arduino.zip).
+In this package you will find the modified Firmata you need to push to your board (LCDFirmata.ino) and the blocks library for Snap4Arduino (LCD-library.xml). Just _File→Import_ it and you're done: [LCD-Snap4Arduino.zip](http://edutec.citilab.eu/files/LCD-Snap4Arduino.zip).
 
 Enjoy it! :)
