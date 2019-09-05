@@ -11,4 +11,4 @@ The robot runs much faster because, in [Snap4Arduino](http://s4a.cat/snap), we c
 
 You can get the code from here:
 
-[Snap4Arduino line tracer](http://vps34736.ovh.net/tracer.xml)
+[Snap4Arduino line tracer](http://edutec.citilab.eu/files/tracer.xml)
