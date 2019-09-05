@@ -18,4 +18,4 @@ Their latest workshop consists in building a miniature model of a Smart City, fo
 ###By using digital and analog outputs
 <iframe width="560" height="315" src="//www.youtube.com/embed/RnR0gsd4UNg" frameborder="0" allowfullscreen></iframe>
 
-All code and datasheets can be found inside [this package]({{site.baseurl}}/files/s4a-display.zip). Enjoy!
+All code and datasheets can be found inside [this package](http://edutec.citilab.eu/files/s4a-display.zip). Enjoy!
